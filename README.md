@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=260&section=header&text=Lohith%20Basetti&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=300&section=header&text=Lohith%20Basetti&fontSize=80&fontColor=ffffff)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Java+Developer;DSA+Learner;Problem+Solver;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;Java+Developer;DSA+Learner" />
 </p>
 
 ## 🌐 Socials:
