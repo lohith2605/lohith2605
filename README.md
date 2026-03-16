@@ -1,8 +1,14 @@
 ## Hi Geek!! 👋
+![Profile views](https://komarev.com/ghpvc/?username=lohith2605)
 
-
-## 🌐 Socials:
+## 🌐 Socialmedia:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lohith-basetti-660614291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lohithbasetti@gmail.com) 
+
+## My Coding Profiles
+
+[LeetCode](https://leetcode.com/lohithbasetti)
+
+[GeeksForGeeks](https://geeksforgeeks.org/user/lohithbp5wh)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
