@@ -1,4 +1,4 @@
-## Hi Geek!! 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lohith&fontSize=60)
 ![Profile views](https://komarev.com/ghpvc/?username=lohith2605)
 
 ## 🌐 Socials:
