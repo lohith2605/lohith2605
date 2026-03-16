@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Lohith&fontSize=55&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Lohith%20Basetti&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Java%20Developer%20%7C%20DSA%20Learner&descAlignY=65&descSize=20)
 ![Profile views](https://komarev.com/ghpvc/?username=lohith2605)
 
 ## 🌐 Socials:
