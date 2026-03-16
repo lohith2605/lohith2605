@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lohith&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=220&section=header&text=Lohith&fontSize=55&fontColor=ffffff)
 ![Profile views](https://komarev.com/ghpvc/?username=lohith2605)
 
 ## 🌐 Socials:
