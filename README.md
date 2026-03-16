@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=260&section=header&text=Lohith%20Basetti&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=00FFFF&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Learner;Problem+Solver)](https://git.io/typing-svg)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lohith-basetti-660614291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lohithbasetti@gmail.com) 
 
