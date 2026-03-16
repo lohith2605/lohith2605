@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=250&section=header&text=Lohith%20Basetti&fontSize=70&fontColor=ffffff)
-![Profile views](https://komarev.com/ghpvc/?username=lohith2605)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=260&section=header&text=Lohith%20Basetti&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lohith-basetti-660614291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lohithbasetti@gmail.com) 
