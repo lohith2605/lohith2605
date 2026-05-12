@@ -27,8 +27,7 @@
 
 ## 🧠 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/lohithbasetti) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks)](https://geeksforgeeks.org/user/lohithbp5wh)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/lohithbasetti) 
 
 
 # 💻 Tech Stack:
